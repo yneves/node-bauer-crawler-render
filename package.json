@@ -1,0 +1,39 @@
+{
+  "name": "bauer-crawler-render",
+  "version": "0.1.0",
+  "description": "Plugin for bauer-crawler to render content.",
+  "keywords": [
+    "multi-thread",
+    "multi-core",
+    "process",
+    "fork",
+    "multi-process",
+    "cluster",
+    "crawler",
+    "render"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/yneves/node-bauer-crawler-render",
+  "author": {
+    "name": "Yuri Neves Silveira",
+    "url": "http://yneves.com/",
+    "email": "npm@yneves.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yneves/node-bauer-crawler-render.git"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "mocha": ">=1.0.0"
+  },
+  "dependencies": {
+    "bauer-cache": "^0.1.5",
+    "bauer-crawler": "^0.1.7",
+    "bauer-factory": "^2.0.4",
+    "underscore": "^1.8.3"
+  },
+  "main": "lib/index.js"
+}
