@@ -1,6 +1,6 @@
 {
   "name": "bauer-crawler-render",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Plugin for bauer-crawler to render content.",
   "keywords": [
     "multi-thread",
