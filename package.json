@@ -1,7 +1,7 @@
 {
   "name": "bauer-plugin-render",
-  "version": "0.1.1",
-  "description": "Plugin for bauer to render content.",
+  "version": "0.1.2",
+  "description": "Plugin for bauer to render templates.",
   "keywords": [
     "multi-thread",
     "multi-core",
