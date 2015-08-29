@@ -1,7 +1,7 @@
 {
-  "name": "bauer-crawler-render",
+  "name": "bauer-plugin-render",
   "version": "0.1.1",
-  "description": "Plugin for bauer-crawler to render content.",
+  "description": "Plugin for bauer to render content.",
   "keywords": [
     "multi-thread",
     "multi-core",
@@ -13,7 +13,7 @@
     "render"
   ],
   "license": "MIT",
-  "homepage": "https://github.com/yneves/node-bauer-crawler-render",
+  "homepage": "https://github.com/yneves/node-bauer-plugin-render",
   "author": {
     "name": "Yuri Neves Silveira",
     "url": "http://yneves.com/",
@@ -21,7 +21,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/yneves/node-bauer-crawler-render.git"
+    "url": "https://github.com/yneves/node-bauer-plugin-render.git"
   },
   "scripts": {
     "test": "mocha"

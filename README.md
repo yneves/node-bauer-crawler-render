@@ -1,2 +1,2 @@
-# node-bauer-crawler-render
-Plugin for bauer-crawler to render content.
+# node-bauer-plugin-render
+Plugin for bauer to render content.
