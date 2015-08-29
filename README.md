@@ -76,10 +76,10 @@ module.exports = function(promise) {
 
 ## API Summary
 
-* `Promise`
-  * `.render(source String) :Promise`
-  * `.render(options Object) :Promise`
-  * `.render(source String, options Object) :Promise`
+  * `Promise`
+    * `.render(source String) :Promise`
+    * `.render(options Object) :Promise`
+    * `.render(source String, options Object) :Promise`
 
 
 ## License
