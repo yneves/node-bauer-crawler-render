@@ -22,7 +22,7 @@ crawler.loadPlugin(__dirname + "/../../");
 
 crawler.start(function() {
   
-  return this.promise()
+  return this.Promise
     .render(__dirname + "/sample.html",{
       target: {
         dir: __dirname,
